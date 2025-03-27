@@ -2,7 +2,7 @@
 
 🎓 **Student at ENSTA Paris** | STIC Major (Science and Technologies of Information and Communication)  
 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
-🔬 Currently looking for a **6-month research internship (césure) starting June 2025**  
+🔬 Currently looking for a **6-month research internship (césure) starting september 2025**  
 💡 Interested in **Deep Learning, NLP, Computer Vision, and Reinforcement Learning **  
 
 ## 🏆 Notable Projects & Achievements  
